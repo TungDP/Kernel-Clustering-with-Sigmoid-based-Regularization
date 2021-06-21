@@ -7,7 +7,9 @@ This page contains source code for Kernel Clustering with Sigmoid-based Regulari
 ## Instructions
 
 The package contains two folders and eight demo files:
+
   ./data: This folder contains four datasets, inlcuding synthetic data, Weizmann data, Google spoken digits data and ordered MNIST data.
+  
   ./mfcc: This folder contains source code for computing del-frequency cepstral coefficents (MFCCs) from audio signals.
   ./demoSyn_FB.m: demo of KCSR on segmentation of synthetic sequence.
   ./demoSyn_SGA.m: demo of SKCSR on segmentation of synthetic sequence.
