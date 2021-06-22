@@ -1,4 +1,4 @@
-# Kernel-CLustering-with-Sigmoid-based-Regularization
+# Kernel CLustering with Sigmoid-based Regularization
 
 ## Introduction
 
