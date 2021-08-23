@@ -25,4 +25,5 @@ The remaining files include: `init_g.m`, `knGauss.m`, `knLin.m`, `KCSR_balanced_
 
 ## Notes
 
+[^1]: We ultilized 
 
