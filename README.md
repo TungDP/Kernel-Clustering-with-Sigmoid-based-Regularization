@@ -1,4 +1,4 @@
-# Kernel CLustering with Sigmoid-based Regularization
+# Kernel Clustering with Sigmoid-based Regularization
 
 ## Introduction
 
@@ -22,3 +22,7 @@ The package contains two folders and eight demo files:
    - `./demoMul_SGA.m:` demo of MKCSR on segmentation of action video sequences of three subjects in Weizmann dataset.
 
 The remaining files include: `init_g.m`, `knGauss.m`, `knLin.m`, `KCSR_balanced_FB.m`, `KCSR_balanced_Multi_SGAm.m`, `KCSR_balanced_SGAm.m`, `KCSR_balanced_SGAo.m`, `sigmoid_mixture_cutoff.m`, `sigmoid_mixture.m`, `sigmoid.m`, `bestMap.m`, `hungarian.m` and `MutualInfo.m`. They are all functional files that constitute the main implementation and evaluation of KCSR, SKCSR and MKCSR.
+
+## Notes
+
+
