@@ -29,6 +29,10 @@ The remaining files include: `init_g.m`, `knGauss.m`, `knLin.m`, `KCSR_balanced_
 
 2. We ultilized the code `bestMap.m`, `hungarian.m` and `MutualInfo.m` provided by Deng Cai (http://www.cad.zju.edu.cn/home/dengcai/Data/Clustering.html) which is publicly available. Please check the licence of it if you want to make use of this code.
 
+## Citations
 
+Please cite the following paper if you use the codes:
+
+1. Tung Doan and Atsuhiro Takasu, "Kernel Clustering with Sigmoid-based Regularization for Efficient Segmentation of Sequential Data," arXiv preprint arXiv:2106.11541 (2021).
 
 
