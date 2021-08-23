@@ -25,5 +25,10 @@ The remaining files include: `init_g.m`, `knGauss.m`, `knLin.m`, `KCSR_balanced_
 
 ## Notes
 
-[^1]: We ultilized 
+1. The default parameters in the demo files are adjusted on the datasets used in the paper. You may need to adjust the parameters when applying it on a new dataset.
+
+2. We ultilized the code `bestMap.m`, `hungarian.m` and `MutualInfo.m` provided by Deng Cai (http://www.cad.zju.edu.cn/home/dengcai/Data/Clustering.html) which is publicly available. Please check the licence of it if you want to make use of this code.
+
+
+
 
