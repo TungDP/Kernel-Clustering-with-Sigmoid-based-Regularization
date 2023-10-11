@@ -33,6 +33,6 @@ The remaining files include: `init_g.m`, `knGauss.m`, `knLin.m`, `KCSR_balanced_
 
 Please cite the following paper if you use the codes:
 
-1. Tung Doan and Atsuhiro Takasu, "Kernel Clustering with Sigmoid-based Regularization for Efficient Segmentation of Sequential Data," arXiv preprint arXiv:2106.11541 (2021).
+1. Doan, Tung, and Atsuhiro Takasu. "Kernel Clustering With Sigmoid Regularization for Efficient Segmentation of Sequential Data." IEEE Access 10 (2022): 62848-62862.
 
 
